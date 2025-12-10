@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Yusuf 👋</h1>
-<h3 align="center">💻 MERN Stack & Next.js Developer</h3>
+<h3 align="center">💻 MERN Stack & Next.js Developer | Chief Technology Officer at <a href="https://sinjabtech.com" target="_blank">Sinjab Tech</a></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kazi-yusuf/" target="_blank">
@@ -18,11 +18,21 @@
 
 ### 👨‍💻 About Me
 
+- 🧭 **Chief Technology Officer (CTO) at [Sinjab Tech](https://sinjabtech.com)**  
 - 🔭 Open to **freelance, full-time, part-time**, and **open-source** opportunities  
-- 🌱 Currently exploring **Next.js**, **server-side rendering**, and **performance optimization**  
+- 🌱 Exploring **Next.js**, **server-side rendering**, **performance optimization**, and **scalable architectures**  
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB, Tailwind CSS, and Next.js**  
-- 👯 Looking to collaborate on **open-source MERN projects** and **innovative web apps**  
-- ⚡ Fun fact: I love turning complex ideas into simple, user-friendly web experiences  
+- 🤝 Open to collaborating on **MERN stack projects**, **UI/UX-enhanced applications**, and **innovative SaaS ideas**  
+- ⚡ Fun fact: I love turning complex problems into simple, intuitive web experiences  
+
+---
+
+### 🧭 What I Do
+
+- Build scalable full-stack web applications using **MERN + Next.js**  
+- Lead technology strategy at **Sinjab Tech**, ensuring quality engineering and UX-driven development  
+- Focus on clean architecture, modular code, and real-world UI/UX  
+- Deploy and manage applications using **Vercel, Netlify, Firebase, and MongoDB Atlas**  
 
 ---
 
@@ -50,11 +60,28 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KYusufbd&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYusufbd&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KYusufbd&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kazi-yusuf/)  
-- ✉️ [Email Me](mailto:yfaka001@gmail.com)  
-- 💬 [Chat on WhatsApp](https://wa.me/8801918525889?text=Hi%20Yusuf!%20I%20found%20you%20on%20GitHub.)
+- 💼 LinkedIn: https://www.linkedin.com/in/kazi-yusuf/  
+- ✉️ Email: yfaka001@gmail.com  
+- 💬 WhatsApp: https://wa.me/8801918525889?text=Hi%20Yusuf!  
 
 ---
 
@@ -63,4 +90,4 @@
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration.*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration.*  
