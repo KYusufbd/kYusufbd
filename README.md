@@ -69,14 +69,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KYusufbd&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kazi-yusuf/  
