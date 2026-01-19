@@ -71,9 +71,9 @@
 
 ### 📫 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/kazi-yusuf/  
-- ✉️ Email: yfaka001@gmail.com  
-- 💬 WhatsApp: https://wa.me/8801918525889?text=Hi%20Yusuf!  
+- [💼 LinkedIn](https://www.linkedin.com/in/kazi-yusuf/)  
+- [✉️ Email](mailto:yfaka001@gmail.com)
+- [💬 WhatsApp](https://wa.me/8801918525889?text=Hi%20Yusuf!)
 
 ---
 
